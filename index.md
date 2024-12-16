@@ -59,4 +59,4 @@ For any questions or assistance, please email [691142@student.inholland.nl](mail
 
 ---
 
-**Let’s explore the beauty of logic and reasoning together!**
+**Mathematics thrives where Apollonian order meets Dionysian chaos—its precision sculpting truth, while its creativity dares to dream beyond the bounds of the known.**
