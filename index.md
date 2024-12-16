@@ -59,4 +59,4 @@ For any questions or assistance, please email [691142@student.inholland.nl](mail
 
 ---
 
-**Mathematics thrives where Apollonian order meets Dionysian chaos—its precision sculpting truth, while its creativity dares to dream beyond the bounds of the known.**
+**Mathematics dances on the edge of reason, where the Apollonian quest for structure embraces the Dionysian impulse to imagine the infinite.**
