@@ -1,6 +1,6 @@
 # Logic and Proof
 
-**Course Instructor:** Niels van Winden  
+**Course Instructor:** Niels van Winden 
 
 ---
 
@@ -10,7 +10,7 @@ Welcome to **Logic and Proof**! This course provides a foundation in the princip
 ---
 
 ## Course Details
-- **Course Code:** LOGIC101  
+- **Group Code:** AMAM24FT1A  
 - **Schedule:** Tuesdays, 10:00 PM - 12:00 PM  
 - **Location:** Room: AM00-04-210 at Pina Bauschplein 4, 1095 PN Amsterdam
 - **Credits:** 3
@@ -56,3 +56,7 @@ This course covers the following key topics:
 
 ## Contact and Support
 For any questions or assistance, please email [691142@student.inholland.nl](mailto:691142@student.inholland.nl) or [dary.delis@inholland.nl](mailto:dary.delis@inholland.nl).
+
+---
+
+**Let’s explore the beauty of logic and reasoning together!**
