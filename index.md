@@ -59,4 +59,4 @@ For any questions or assistance, please email [691142@student.inholland.nl](mail
 
 ---
 
-**Mathematics dances on the edge of reason, where the Apollonian quest for structure embraces the Dionysian impulse to imagine the infinite.**
+**In mathematics, the Apollonian logic builds the staircase, but it’s the Dionysian imagination that dares to ascend into the unknown.**
