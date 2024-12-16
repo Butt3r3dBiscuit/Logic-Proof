@@ -1,7 +1,6 @@
 # Logic and Proof
 
 **Course Instructor:** Niels van Winden  
-**Date:** *Current Date*
 
 ---
 
@@ -13,17 +12,17 @@ Welcome to **Logic and Proof**! This course provides a foundation in the princip
 ## Course Details
 - **Course Code:** LOGIC101  
 - **Schedule:** Tuesdays, 10:00 PM - 12:00 PM  
-- **Location:** Room 203, Science Building  
-- **Credits:** 5  
+- **Location:** Room: AM00-04-210 at Pina Bauschplein 4, 1095 PN Amsterdam
+- **Credits:** 3
 - **Prerequisites:** Precalculus  
 
 ---
 
 ## Instructor Information
 - **Name:** Niels van Winden  
-- **Email:** [jane.doe@example.com](mailto:jane.doe@example.com)  
-- **Office:** Room 305, Science Building  
-- **Office Hours:** Tuesdays, 10:00 PM - 12:00 PM  
+- **Email:** [691142@student.inholland.nl](mailto:691142@student.inholland.nl)  
+- **Office:** Inholland Pina Bauschplein 4, 1095 PN Amsterdam 4th floor
+- **Office Hours:** Tuesdays, 09:00 PM - 12:00 PM  
 
 ---
 
@@ -36,7 +35,7 @@ This course covers the following key topics:
 5. Proof Techniques (Direct, Contrapositive, Contradiction, Induction)  
 6. Recursion  
 7. Set Theory Basics  
-8. Functions, Relations, and Infinity  
+8. Functions, Relations, and Cardinality  
 
 ---
 
@@ -49,15 +48,11 @@ This course covers the following key topics:
 ---
 
 ## Important Links
-- [Syllabus and Schedule](https://www.example.com/syllabus)  
-- [Additional Resources](https://www.example.com/resources)  
-- [Discussion Forum](https://www.example.com/forum)  
+- [Lecture Notes](https://github.com/NielsvanWinden/Logic-and-Proof/tree/dev/Lecture%20Notes)  
+- [Delftse Foundations of Computation - 2nd Edition](https://textbooks.open.tudelft.nl/textbooks/catalog/view/53/144/370)  
+- [Additional Exercises](https://github.com/NielsvanWinden/Logic-and-Proof/tree/dev/Additional%20Exercises)  
 
 ---
 
 ## Contact and Support
-For any questions or assistance, please email [support@example.com](mailto:support@example.com).
-
----
-
-**Let’s explore the beauty of logic and reasoning together!**
+For any questions or assistance, please email [691142@student.inholland.nl](mailto:691142@student.inholland.nl) or [dary.delis@inholland.nl](mailto:dary.delis@inholland.nl).
