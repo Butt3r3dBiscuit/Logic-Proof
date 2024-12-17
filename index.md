@@ -43,9 +43,9 @@ This course covers the following key topics:
 
 Your grade G is computied by the following formula:
 
-G = max{E*0.8 + I*0.2, E} given that E >= 5.5 else G = E
+G = max{E * 0.8 + I * 0.2, E} given that E >= 5.5 else G = E
 
-Where E is the final exam and I is the intermediate exam.
+Where E and I are your respective final and intermdiate exam grades.
 
 ---
 
