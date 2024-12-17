@@ -58,9 +58,9 @@ Where E and I are your respective final and intermdiate exam grades.
 ---
 
 ## Important Links
-- [Lecture Notes](https://github.com/NielsvanWinden/Logic-and-Proof/tree/dev/Lecture%20Notes)  
+- [Lecture Notes](https://github.com/NielsvanWinden/Logic-and-Proof/tree/dev/lecture_notes)  
 - [Delftse Foundations of Computation - 2nd Edition](https://textbooks.open.tudelft.nl/textbooks/catalog/view/53/144/370)  
-- [Additional Exercises](https://github.com/NielsvanWinden/Logic-and-Proof/tree/dev/Additional%20Exercises)
+- [Additional Exercises](https://github.com/NielsvanWinden/Logic-and-Proof/tree/dev/additional_exercises)
 - [Intermediate Exam](./docs/Midterm_v2.pdf)
 
 ---
@@ -70,4 +70,4 @@ For any questions or assistance, please email [691142@student.inholland.nl](mail
 
 ---
 
-**In mathematics, the Apollonian logic builds the staircase, but it’s the Dionysian imagination that dares to ascend into the unknown.**
+**In mathematics, the Apollonian logic builds the staircase, but it’s the Dionysian imagination that envisions it's destination.**
