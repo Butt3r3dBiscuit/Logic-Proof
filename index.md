@@ -61,7 +61,7 @@ Where E and I are your respective final and intermdiate exam grades.
 - [Lecture Notes](https://github.com/NielsvanWinden/Logic-and-Proof/tree/dev/lecture_notes)  
 - [Delftse Foundations of Computation - 2nd Edition](https://textbooks.open.tudelft.nl/textbooks/catalog/view/53/144/370)  
 - [Additional Exercises](https://github.com/NielsvanWinden/Logic-and-Proof/tree/dev/additional_exercises)
-- [Intermediate Exam](./docs/Midterm_v2.pdf)
+- [Intermediate Exam](./docs/Logic_and_Proof.pdf)
 
 ---
 
