@@ -39,6 +39,16 @@ This course covers the following key topics:
 
 ---
 
+## Grading Information
+
+Your grade G is computied by the following formula:
+
+G = max{E*0.8 + I*0.2, E} given that E >= 5.5 else G = E
+
+Where E is the final exam and I is the intermediate exam.
+
+---
+
 ## Required Textbook
 - **Title:** Delftse Foundations of Computation - 2nd Edition  
 - **Author:** Stefan Hugtenburg and Neil Yorke-Smith  
@@ -50,7 +60,8 @@ This course covers the following key topics:
 ## Important Links
 - [Lecture Notes](https://github.com/NielsvanWinden/Logic-and-Proof/tree/dev/Lecture%20Notes)  
 - [Delftse Foundations of Computation - 2nd Edition](https://textbooks.open.tudelft.nl/textbooks/catalog/view/53/144/370)  
-- [Additional Exercises](https://github.com/NielsvanWinden/Logic-and-Proof/tree/dev/Additional%20Exercises)  
+- [Additional Exercises](https://github.com/NielsvanWinden/Logic-and-Proof/tree/dev/Additional%20Exercises)
+- [Intermediate Exam](./docs/Midterm_v2.pdf)
 
 ---
 
