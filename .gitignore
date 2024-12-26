@@ -3,4 +3,9 @@
 *.js
 *.tex
 *.files
+*.md
+*.css
+
+output/
+
 
